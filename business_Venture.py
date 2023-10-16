@@ -1,5 +1,4 @@
-## Midterm project submitted by Elie Wamana in partial fulfilment of CSIS 1300
-# Friday, February 24, 2023
+
 ## A local business venture capitalist wants you to write a program that they can use to conduct a cost benefit analysis of any given new business startup, to determine the capital investment, operational expenditures, unit costs, sales volume, and calculate the monthly profit or loss based on user input.  This software tool will then be used by the venture capitalist to compare different businesses to determine which business would provide the greatest return on investment.
 
 # Module 1: Initial Capital Investment
